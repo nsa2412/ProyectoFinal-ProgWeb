@@ -3,7 +3,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import ListGroup from 'react-bootstrap/ListGroup';
 
-function ContainerExample() {
+function Footer() {
   return (
     <Container>
         
@@ -33,4 +33,4 @@ function ContainerExample() {
   );
 }
 
-export default ContainerExample;
+export default Footer;
